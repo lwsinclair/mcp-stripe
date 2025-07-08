@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/atharvagupta2003-mcp-stripe-badge.png)](https://mseep.ai/app/atharvagupta2003-mcp-stripe)
+
 # MCP Stripe Server
 [![smithery badge](https://smithery.ai/badge/@atharvagupta2003/mcp-stripe)](https://smithery.ai/server/@atharvagupta2003/mcp-stripe)
 
